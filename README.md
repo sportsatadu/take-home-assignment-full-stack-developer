@@ -13,7 +13,7 @@ Every player books a training plan with a fixed number of regular sessions (e.g.
 
 We need a system where coaches can:
 - Log in and see only the sessions and players for their assigned age group.
-- Mark player attendance (regular or complimentary).
+- Mark player attendance (regular or compensatory).
 - Take a group photo of the players during attendance (only camera).
 - Track how many sessions each player has attended, and how many complimentary sessions are used.
 
